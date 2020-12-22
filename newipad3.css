@@ -1,0 +1,20 @@
+#navbar{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#home{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#footer{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#container{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
